@@ -1,4 +1,4 @@
-# File_Merger
+# File Merger
 This python program concatenates several csv files into one
 
-![File_Merger](https://raw.githubusercontent.com/SergioAlfaroLahoz/FileMerger/master/img/program.JPG)
+![File_Merger](https://raw.githubusercontent.com/SergioAlfaroLahoz/File_Merger/master/img/program.JPG)
